@@ -1,0 +1,348 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?uvyk3x');
+  src:  url('fonts/icomoon.eot?uvyk3x#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?uvyk3x') format('truetype'),
+    url('fonts/icomoon.woff?uvyk3x') format('woff'),
+    url('fonts/icomoon.svg?uvyk3x#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow-down:before {
+  content: "\e923";
+}
+.icon-arrow-left:before {
+  content: "\e924";
+}
+.icon-arrow-outline-down:before {
+  content: "\e925";
+}
+.icon-arrow-outline-left:before {
+  content: "\e926";
+}
+.icon-arrow-outline-right:before {
+  content: "\e927";
+}
+.icon-arrow-outline-up:before {
+  content: "\e928";
+}
+.icon-arrow-right:before {
+  content: "\e929";
+}
+.icon-arrow-thick-down:before {
+  content: "\e92a";
+}
+.icon-arrow-thick-left:before {
+  content: "\e92b";
+}
+.icon-arrow-thick-right:before {
+  content: "\e92c";
+}
+.icon-arrow-thick-up:before {
+  content: "\e92d";
+}
+.icon-arrow-thin-down:before {
+  content: "\e92e";
+}
+.icon-arrow-thin-left:before {
+  content: "\e92f";
+}
+.icon-arrow-thin-right:before {
+  content: "\e930";
+}
+.icon-arrow-thin-up:before {
+  content: "\e931";
+}
+.icon-arrow-up:before {
+  content: "\e932";
+}
+.icon-checkmark:before {
+  content: "\e933";
+}
+.icon-cheveron-outline-down:before {
+  content: "\e934";
+}
+.icon-cheveron-outline-left:before {
+  content: "\e935";
+}
+.icon-cheveron-outline-right:before {
+  content: "\e936";
+}
+.icon-cheveron-outline-up:before {
+  content: "\e937";
+}
+.icon-close:before {
+  content: "\e938";
+}
+.icon-location-current:before {
+  content: "\e94f";
+}
+.icon-mic:before {
+  content: "\e939";
+}
+.icon-notification:before {
+  content: "\e93a";
+}
+.icon-pause-solid:before {
+  content: "\e93b";
+}
+.icon-phone:before {
+  content: "\e93c";
+}
+.icon-play:before {
+  content: "\e93d";
+}
+.icon-send:before {
+  content: "\e93e";
+}
+.icon-share-alt:before {
+  content: "\e93f";
+}
+.icon-thumbs-down:before {
+  content: "\e940";
+}
+.icon-thumbs-up:before {
+  content: "\e941";
+}
+.icon-yin-yang:before {
+  content: "\e944";
+}
+.icon-zoom-in:before {
+  content: "\e945";
+}
+.icon-zoom-out:before {
+  content: "\e946";
+}
+.icon-cheveron-up:before {
+  content: "\e91f";
+}
+.icon-cheveron-right:before {
+  content: "\e920";
+}
+.icon-cheveron-left:before {
+  content: "\e921";
+}
+.icon-cheveron-down:before {
+  content: "\e922";
+}
+.icon-search:before {
+  content: "\e987";
+}
+.icon-arrow-up2:before {
+  content: "\ea3b";
+}
+.icon-arrow-right2:before {
+  content: "\ea3d";
+}
+.icon-arrow-down2:before {
+  content: "\ea3f";
+}
+.icon-arrow-left2:before {
+  content: "\ea41";
+}
+.icon-angellist:before {
+  content: "\e900";
+}
+.icon-apache:before {
+  content: "\e901";
+  color: #d22128;
+}
+.icon-apacherocketmq:before {
+  content: "\e902";
+  color: #d77310;
+}
+.icon-atom:before {
+  content: "\e903";
+  color: #66595c;
+}
+.icon-brand-dot-ai:before {
+  content: "\e904";
+  color: #0aa0ff;
+}
+.icon-broadcom:before {
+  content: "\e905";
+  color: #cc092f;
+}
+.icon-codeigniter:before {
+  content: "\e906";
+  color: #ee4623;
+}
+.icon-codewars:before {
+  content: "\e907";
+  color: #ad2c27;
+}
+.icon-composer:before {
+  content: "\e908";
+  color: #885630;
+}
+.icon-coronarenderer:before {
+  content: "\e909";
+  color: #e6502a;
+}
+.icon-css3:before {
+  content: "\e90a";
+  color: #1572b6;
+}
+.icon-dashlane:before {
+  content: "\e90b";
+  color: #007c97;
+}
+.icon-discover:before {
+  content: "\e90c";
+  color: #ff6000;
+}
+.icon-dribbble:before {
+  content: "\e90d";
+  color: #ea4c89;
+}
+.icon-apache1:before {
+  content: "\e94e";
+  color: #d22128;
+}
+.icon-csharp:before {
+  content: "\e910";
+  color: #239120;
+}
+.icon-dashlane1:before {
+  content: "\e90f";
+  color: #007c97;
+}
+.icon-deliveroo:before {
+  content: "\e911";
+  color: #00ccbc;
+}
+.icon-dell:before {
+  content: "\e912";
+  color: #007db8;
+}
+.icon-deno:before {
+  content: "\e913";
+}
+.icon-disqus:before {
+  content: "\e914";
+  color: #2e9fff;
+}
+.icon-disroot:before {
+  content: "\e915";
+  color: #50162d;
+}
+.icon-django:before {
+  content: "\e916";
+}
+.icon-dlna:before {
+  content: "\e917";
+  color: #48a842;
+}
+.icon-dunked:before {
+  content: "\e918";
+  color: #2da9d7;
+}
+.icon-duolingo:before {
+  content: "\e919";
+  color: #58cc02;
+}
+.icon-dynatrace:before {
+  content: "\e91a";
+  color: #1496ff;
+}
+.icon-ebay:before {
+  content: "\e91c";
+  color: #e53238;
+}
+.icon-eclipseide:before {
+  content: "\e91d";
+  color: #2c2255;
+}
+.icon-elastic:before {
+  content: "\e91e";
+  color: #005571;
+}
+.icon-nvidia:before {
+  content: "\e949";
+  color: #76b900;
+}
+.icon-obsstudio:before {
+  content: "\e94a";
+}
+.icon-react:before {
+  content: "\e94d";
+  color: #61dafb;
+}
+.icon-xiaomi:before {
+  content: "\e94b";
+  color: #fa6709;
+}
+.icon-home2:before {
+  content: "\e90e";
+}
+.icon-connection:before {
+  content: "\e91b";
+}
+.icon-phone1:before {
+  content: "\e942";
+}
+.icon-phone-hang-up:before {
+  content: "\e943";
+}
+.icon-location:before {
+  content: "\e947";
+}
+.icon-location2:before {
+  content: "\e948";
+}
+.icon-search1:before {
+  content: "\e986";
+}
+.icon-volume-medium:before {
+  content: "\ea27";
+}
+.icon-arrow-up21:before {
+  content: "\ea3a";
+}
+.icon-arrow-right21:before {
+  content: "\ea3c";
+}
+.icon-arrow-down21:before {
+  content: "\ea3e";
+}
+.icon-arrow-left21:before {
+  content: "\ea40";
+}
+.icon-home21:before {
+  content: "\e94c";
+}
+.icon-bubble:before {
+  content: "\e96b";
+}
+.icon-bubbles:before {
+  content: "\e96c";
+}
+.icon-bubble2:before {
+  content: "\e96e";
+}
+.icon-user:before {
+  content: "\e971";
+}
+.icon-users:before {
+  content: "\e972";
+}
+.icon-play2:before {
+  content: "\ea15";
+}
